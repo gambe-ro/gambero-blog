@@ -1,4 +1,5 @@
- ![](gambero.png "gambe.ro logo")
+
+![](gambero.png "gambe.ro logo")
 
 # gambe.ro lancerà il 1 Luglio 2019
 [gambe.ro](https://gambe.ro) si prepara a dare il benvenuto a tutti quei programmatori in cerca di una comunità dove parlare di sviluppo software in **italiano**. gambe.ro uscirà infatti dalla fase di testing il 1 Luglio, aggiornato con molte delle feature richieste dai nostri primi utenti che ringraziamo per averci aiutati a testare la piattaforma. 
